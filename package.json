@@ -1,0 +1,23 @@
+{
+  "name": "BrainJavascript",
+  "version": "1.0.0",
+  "description": "Simple machine learning with javascipt",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdityaIrfan/BrainJavascript.git"
+  },
+  "keywords": [],
+  "author": "AdityaIrfan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdityaIrfan/BrainJavascript/issues"
+  },
+  "homepage": "https://github.com/AdityaIrfan/BrainJavascript#readme",
+  "dependencies": {
+    "brain.js": "^2.0.0-beta.2"
+  }
+}
